@@ -6,10 +6,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-//123木头人123++++++++xxxx+456+234
+//123木头人123+456+234
+//fixed
 //dsgsjkfhfskdu
-
-
 public class Helloservlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
